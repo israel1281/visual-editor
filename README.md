@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://i.imgur.com/bDRWSjo.png" alt="Visual Editor Logo"/>
-</p>
+
 
 # visual-editor
 Website editor built with React. Make a modern website in seconds with predefined blocks and drag and drop.
